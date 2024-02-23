@@ -1,11 +1,13 @@
-## :wave: Hey everyone, I'm Naman Yadav®™:wave:
+## :wave: Hey everyone, I'm Naman Yadav®™ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 
+   
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="full">
 <br><br>
 
+
 :wave:Hey there, I'm Naman Yadav, a dynamic MERN stack developer with a passion for coding and a heart that beats to the rhythm of music. I find joy in crafting innovative solutions and contributing to the ever-evolving tech landscape. As I embark on my journey, I'm gearing up to dive into the world of open source contributions, driven by the desire to make a positive impact on the global developer community.
 
-<h3>Updates:</h3>
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;Updates: 
 <hr>
 
 - 🔭 I’m currently working on [Short Notes](https://github.com/NamanYadav11/short_notes)
