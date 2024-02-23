@@ -34,7 +34,7 @@
 <a href="https://discordapp.com/users/782592014164033556" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<br><br>
+<br>
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35">&nbsp;Languages and Tools:
 <hr>
